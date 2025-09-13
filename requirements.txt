@@ -1,0 +1,5 @@
+fastmcp
+langgraph
+aws-cdk-lib
+constructs
+boto3
